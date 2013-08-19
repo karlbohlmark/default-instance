@@ -1,0 +1,14 @@
+{
+  "name": "default-instance",
+  "repo": "karlbohlmark/default-instance",
+  "description": "Create a default object instance from a JSON schema",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
